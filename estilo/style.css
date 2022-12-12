@@ -37,7 +37,7 @@ section#login h1{
 }
 section#login p{
     padding: 10px;
-    font-size: 1em;
+    font-size: 0.8em;
 }
 section#login > div#imagem {
     display: block;

@@ -39,6 +39,13 @@
     }
     section#login > div#formulario{
         float: left;
-        width: 40%;
+        width: 60%;
     }
+    section#login > h1{
+        font-size: 2em;
+    }
+    section#login > p {
+        font-size: 1.2em;
+    }
+    
  }
